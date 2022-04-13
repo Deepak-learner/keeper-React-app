@@ -6,7 +6,7 @@ function Footer() {
     <footer>
       <h3>Created with React 👨‍💻</h3>
       
-      <h3>Created by DA 😎. </h3>
+      <h3>Created by Deepak Agarwal 😎. </h3>
       </footer>
   );
 }
